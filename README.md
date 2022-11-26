@@ -1,24 +1,62 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# hello-rails-backend
 
-Things you may want to cover:
+> This is a project to learn how to use React with Rails by Implementing a connection between a Ruby on Rails back-end and React front-end.
 
-* Ruby version
+## Overview
 
-* System dependencies
+[Link to react-frontend](https://github.com/brainconnect93/hello-react-frontend)
 
-* Configuration
+## Built With
 
-* Database creation
+- Rails
+- API
 
-* Database initialization
+## Getting Started
 
-* How to run the test suite
+### Clone this repository
 
-* Services (job queues, cache servers, search engines, etc.)
+```bash
+$ git clone git@github.com:brainconnect93/hello-rails-backend.git
+$ cd hello-rails-backend
+```
 
-* Deployment instructions
+### Run project
 
-* ...
+```bash
+$ rails server
+
+```
+
+### Open page in browser
+
+```bash
+$ http://localhost:3001/
+```
+
+## Author
+
+👤 **Afolabi Akorede**
+
+- GitHub: [@brainconnect93](https://github.com/brainconnect93)
+- Twitter: [@brainconnect0](https://twitter.com/brainconnect0)
+- LinkedIn: [Afolabi Akorede](https://linkedin.com/in/brainconnect93)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](https://github.com/brainconnect93/Hello-rails-backend/issues)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Inspiration
+- Microverse student community
+
+## 📝 License
+
+This project is [MIT](C:\Users\Administrator\Desktop\Hello-rails-react\LICENSE) licensed.
